@@ -72,10 +72,3 @@ I am a creative **Front-End Developer** with over **3+ years of experience** cra
   </p>
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitrana04&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitrana04&layout=compact&theme=radical" alt="Top Languages" />
-</div>
