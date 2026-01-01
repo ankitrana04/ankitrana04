@@ -23,7 +23,7 @@
 I am a creative **Front-End Developer** with over **3+ years of experience** crafting responsive and interactive web applications. I specialize in translating complex UI/UX designs into clean, pixel-perfect code.
 
 - 🔭 **Currently:** Building modern user interfaces at **AHA Technocrats**.
-- 💻 **Core Stack:** **React.js**, **Angular**, **WordPress**, **JavaScript (ES6+)**, and **Shopify**.
+- 💻 **Core Stack:** **HTML**, **CSS**, **React.js**, **Angular**, **WordPress**, **JavaScript (ES6+)**, and **Shopify**.
 - 🎨 **Design Edge:** With strong skills in **Figma**, I bridge the gap between design and development to ensure seamless user experiences.
 - 🚀 **Track Record:** Delivered **100+ projects** ranging from corporate websites to dynamic finance platforms.
 
